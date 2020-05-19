@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500");
+:root {
+    /* 62.5% is 10px of standard 16px (100%), now 1rem = 10px (1px = 0.1rem) */
+    font-size: 62.5%;
+}
+
+body {
+    font-family: Roboto, sans-serif;
+    font-weight: 400;
+    width: 100%;
+    margin: 0;
+    font-size: 1.6rem;
+}
