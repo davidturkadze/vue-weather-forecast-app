@@ -15,6 +15,7 @@ FusionTheme(FusionCharts);
 
 // Global registration of components for project-wide use
 Vue.use(VueFusionCharts, FusionCharts);
+Vue.use(require('vue-moment'));
 
 Vue.config.productionTip = false;
 
