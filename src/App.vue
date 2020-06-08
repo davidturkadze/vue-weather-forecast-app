@@ -149,6 +149,7 @@ export default {
       //this.clearInput();
     },
     clearInput() {
+      
       this.location = "";
     },
     locationInput() {
