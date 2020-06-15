@@ -1,5 +1,7 @@
 # vue-weather-app
 
+Weather app built with vue.js, mapquest api and openweatherapp. Not ready yet. In the future, Fusioncharts will be added for additional weather details.
+
 ## Project setup
 ```
 npm install
